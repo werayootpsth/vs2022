@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class Class1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Dev1");
-        }
+        public int MyProperty { get; set; }
     }
 }
